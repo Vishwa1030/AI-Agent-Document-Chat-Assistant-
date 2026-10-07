@@ -25,4 +25,8 @@ A production-ready intelligent assistant built with Django that analyzes your up
 
 10) Professional Interface - Clean gradients, smooth animations
 
+AI Assistant Output
+---
+
+<img width="1597" height="740" alt="image" src="https://github.com/user-attachments/assets/f0e60eb8-2f96-4388-aeaa-3b806ed4d87c" />
 
