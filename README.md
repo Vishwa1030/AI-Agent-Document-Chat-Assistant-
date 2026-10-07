@@ -28,5 +28,7 @@ A production-ready intelligent assistant built with Django that analyzes your up
 AI Assistant Output
 ---
 
+<img width="1222" height="747" alt="ai assistant output sample" src="https://github.com/user-attachments/assets/15fa1e02-723d-4caa-8465-ac595690d55b" />
+
 <img width="1597" height="740" alt="image" src="https://github.com/user-attachments/assets/f0e60eb8-2f96-4388-aeaa-3b806ed4d87c" />
 
